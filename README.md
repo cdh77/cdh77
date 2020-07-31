@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+##### Intersted in web development using:-
+1. HTML
+2. CSS
+3. JS
+4. Python (django & flask)
+
 <!--
 **cdh77/cdh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
