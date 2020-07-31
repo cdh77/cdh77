@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋😎
 
-##### Intersted in web development using:-
+##### Intersted in web development using:- 🧑🏽‍💻
 1. HTML
 2. CSS
 3. JS
