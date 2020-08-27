@@ -1,7 +1,7 @@
 ### Hi there 👋😎
 
 - 👯 I’m looking to collaborate on Z-polls
-- 📫 How to reach me: twitter- 🐦[@cdh77k](https://twitter.com/cdh77k)  and reddit- 👽[cdh77k](https://www.reddit.com/user/cdh77k)
+- 📫 How to reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/cdh77k?style=social)](https://twitter.com/cdh77k) | [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/cdh77k?style=social)](https://www.reddit.com/user/cdh77k)
  
 
 ##### Intersted in web development using:- 🧑🏽‍💻
